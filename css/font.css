@@ -1,0 +1,92 @@
+@charset "utf-8";
+
+@font-face {
+    font-family:'pb' ;
+    src: url('../fonts/BudweiserSerif-Display.woff');
+}
+
+@font-face {
+    font-family: 'pre';
+    src: url('../fonts/Pretendard-Regular.woff2');
+}
+
+@font-face {
+    font-family: 'budl';
+    src: url('../fonts/BudweiserSerif-Regular.woff');
+}
+
+
+.hbot > ul > li > a {
+    font-family: 'pb';
+}
+
+.mainevent h2 {
+    font-family: 'pb';
+}
+
+.artist .artinner {
+    font-family: 'pb';
+}
+
+header .inner .hbot a {
+    font-size: 2.8rem;
+}
+
+.menu_nav li a {
+    font-family: 'budl';
+    font-weight: 400;
+}
+
+.sns h2 {
+    font-family: 'pb';
+    font-size: 3.5rem;
+}
+
+.mainevent p {
+    font-family: 'pre';
+}
+
+.policy a {
+    font-family: 'pre';
+}
+
+.policy p {
+    font-family: 'pre';
+    font-size: 1.6rem;
+}
+
+.popup_in p {
+    font-family: 'pre';
+    font-size: 4.2rem;
+    font-weight: 600;
+    color: #0a0541;
+    line-height: 1.1;
+}
+.popup_in p strong {
+    font-weight: 800;
+}
+.pwar span {
+    font-family: 'pre';
+}
+.pselect button {
+    font-family: 'pb';
+}
+.mo_list li a{
+    font-family: 'pb';
+    font-weight: 600;
+    color: #0a0541;
+    font-size: 2,4rem;
+}
+.mo_list li::after{
+    font-size: 26px;
+    color: #0a0541;
+    font-weight: 900;
+}
+.slider li >  p {
+    color: #0A0541;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: 'pre';
+}
+.mo_list li{
+font-size: 24px;}
